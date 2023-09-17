@@ -1,0 +1,25 @@
+body {
+    background-color: #def5d7;
+}
+
+#container{
+    width: 200px;
+    height: 300px;
+    border-radius: 3px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#btnCard {
+    margin-top: 10px;
+    background-color: #00c334;
+    border: 0 none;
+    border-radius: 5px;
+    padding: 8px;
+    cursor: pointer;
+}
+
